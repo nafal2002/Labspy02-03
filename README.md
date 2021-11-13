@@ -13,25 +13,37 @@ berikut flowchart untuk menentukan nilai terbesar dari 3 buah bilangan
 
 # Menggunakan statement if untuk mencari nilai terbesar dari 3 bilangan
 
-#### untuk a di inisiasikan sebagai bilangan pertama, b untuk bilangan kedua, c untuk bilangan ketiga
-
-#### dengan cara statement if untuk a sebagai bilangan pertama, elif untuk b bilangan kedua, dan else untuk c bilangan ketiga, berikut gambar program dan tulisan programnya
+untuk a di inisiasikan sebagai bilangan pertama, b untuk bilangan kedua, c untuk bilangan ketiga
 
 
-![Gambar 2](screenshot/praktikum2.png)
+dengan cara statement if untuk a sebagai bilangan pertama, elif untuk b bilangan kedua, dan else untuk c bilangan ketiga, berikut gambar program dan tulisan programnya
 
 
-#### untuk hasil ketika program dijalankan, bilangan pertama yang terbesar
 
-![Gambar 3](screenshot/praktikum2_1.png)
+![Gambar 2](screenshot/praktikum2.PNG)
 
-#### untuk bilangan kedua yang terbesar ketika program dijalankan
 
-![Gambar 4](screenshot/praktikum2_2.png)
 
-#### sedangkan untuk bilangan ketiga yang terbesar ketika program dijalankan
+untuk hasil ketika program dijalankan, bilangan pertama yang terbesar
 
-![Gambar 5](screenshot/praktikum2_3.png)
+
+![Gambar 3](screenshot/praktikum2_1.PNG)
+
+
+
+untuk bilangan kedua yang terbesar ketika program dijalankan
+
+
+
+![Gambar 4](screenshot/praktikum2_2.PNG)
+
+
+
+sedangkan untuk bilangan ketiga yang terbesar ketika program dijalankan
+
+
+
+![Gambar 5](screenshot/praktikum2_3.PNG)
 
 
 # Labspy03
@@ -80,25 +92,25 @@ berikut flowchart untuk menentukan nilai terbesar dari 3 buah bilangan
 
 3. while True: - adalah perintah untuk pengulangan hingga waktu yang tidak ditentukan
 
-4.      a = int(input("Masukkan Bilangan: ")) - adalah perintah untuk menginput nilai integer
+4. a = int(input("Masukkan Bilangan: ")) - adalah perintah untuk menginput nilai integer
 
-5.   if max < a: - adalah perintah untuk tipe data if atau jika, maksimal nilai lebih kecil dari a atau integer
+5. if max < a: - adalah perintah untuk tipe data if atau jika, maksimal nilai lebih kecil dari a atau integer
 
-6.      max = a - perintah untuk nilai maximal sama dengan a atau integer
+6. max = a - perintah untuk nilai maximal sama dengan a atau integer
 
-7.    if a ==0: - perintah untuk tipe data if atau jika a sama dengan 0 maka
+7. if a ==0: - perintah untuk tipe data if atau jika a sama dengan 0 maka
 
-8.      break - perintah untuk mengakhiri pengulangan, jadi jika menginput nilai 0 maka pengulangan berakhir atau selesai
+8. break - perintah untuk mengakhiri pengulangan, jadi jika menginput nilai 0 maka pengulangan berakhir atau selesai
 
 9. print("Bilangan Terbesar Adalah: ", max) - adalah perintah untuk menampilkan hasil bilangan yang terbesar dari angka-angka yang telah terinput
 
 #### berikut gambaran programnya
 
-![Gambar 5](screenshot/latihan2.png)
+![Gambar 5](screenshot/latihan2.PNG)
 
 #### berikut hasil program saat dijalankan
 
-![Gambar 6](screenshot/latihan2_2.png)
+![Gambar 6](screenshot/latihan2_2.PNG)
 
 
 # Program 1
@@ -135,7 +147,7 @@ y=[a,b,c,d,e,f,g,h] - adalah untuk menentukan syarat y yang berisi a,b,c,d,e,f,g
 
 for i in range(len(y)): - adalah untuk perulangan data dengan isi data y, dengan menampilkan urutan laba perbulan sesuai range yang di tentukan dengan hasil ke urutan yang diinputkan dari data y
 
-    print("Laba Bulan Ke",i+1 ,"sebesar: ",y[i]) - untuk menampilkan hasil laba dari bulan ke 1 sampai terakhir
+print("Laba Bulan Ke",i+1 ,"sebesar: ",y[i]) - untuk menampilkan hasil laba dari bulan ke 1 sampai terakhir
 
 z=(a+b+c+d+e+f+g+h) - Z untuk data yang berisi hasil penjumlahan laba dari bulan pertama sampai bulan ke delapan
 
@@ -143,8 +155,8 @@ print("Jumlah Laba Selama 8 Bulan: ",z) - menampilkan hasil dari jumlah laba
 
 #### berikut gambaran programnya
 
-![Gambar 8](screenshot/program1.png)
+![Gambar 8](screenshot/program1.PNG)
 
 #### berikut hasil dari program setelah dijalankan
 
-![Gambar 9](screenshot/program1_1.png)
+![Gambar 9](screenshot/program1_1.PNG)
