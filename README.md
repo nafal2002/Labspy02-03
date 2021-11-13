@@ -143,8 +143,8 @@ print("Jumlah Laba Selama 8 Bulan: ",z) - menampilkan hasil dari jumlah laba
 
 #### berikut gambaran programnya
 
-![Gambar 8](screenshot/program1.PNG)
+![Gambar 8](screenshot/program1.png)
 
 #### berikut hasil dari program setelah dijalankan
 
-![Gambar 9](screenshot/program1_1.PNG)
+![Gambar 9](screenshot/program1_1.png)
