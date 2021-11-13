@@ -57,11 +57,11 @@ berikut flowchart untuk menentukan nilai terbesar dari 3 buah bilangan
 
 #### berikut gambaran programnya
 
-![Gambar 2](screenshot/latihan1.png)
+![Gambar 2](screenshot/latihan1.PNG)
 
 #### berikut hasil dari program saat dijalankan
 
-![Gambar 3](screenshot/latihan1_1.png)
+![Gambar 3](screenshot/latihan1_1.PNG)
 
 
 # Latihan 2
