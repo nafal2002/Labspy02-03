@@ -18,20 +18,20 @@ berikut flowchart untuk menentukan nilai terbesar dari 3 buah bilangan
 #### dengan cara statement if untuk a sebagai bilangan pertama, elif untuk b bilangan kedua, dan else untuk c bilangan ketiga, berikut gambar program dan tulisan programnya
 
 
-![Gambar 2](screenshot/praktikum2.PNG)
+![Gambar 2](screenshot/praktikum2.png)
 
 
 #### untuk hasil ketika program dijalankan, bilangan pertama yang terbesar
 
-![Gambar 3](screenshot/praktikum2_1.PNG)
+![Gambar 3](screenshot/praktikum2_1.png)
 
 #### untuk bilangan kedua yang terbesar ketika program dijalankan
 
-![Gambar 4](screenshot/praktikum2_2.PNG)
+![Gambar 4](screenshot/praktikum2_2.png)
 
 #### sedangkan untuk bilangan ketiga yang terbesar ketika program dijalankan
 
-![Gambar 5](screenshot/praktikum2_3.PNG)
+![Gambar 5](screenshot/praktikum2_3.png)
 
 
 # Labspy03
@@ -57,11 +57,11 @@ berikut flowchart untuk menentukan nilai terbesar dari 3 buah bilangan
 
 #### berikut gambaran programnya
 
-![Gambar 2](screenshot/latihan1.PNG)
+![Gambar 2](screenshot/latihan1.png)
 
 #### berikut hasil dari program saat dijalankan
 
-![Gambar 3](screenshot/latihan1_1.PNG)
+![Gambar 3](screenshot/latihan1_1.png)
 
 
 # Latihan 2
@@ -94,11 +94,11 @@ berikut flowchart untuk menentukan nilai terbesar dari 3 buah bilangan
 
 #### berikut gambaran programnya
 
-![Gambar 5](screenshot/latihan2.PNG)
+![Gambar 5](screenshot/latihan2.png)
 
 #### berikut hasil program saat dijalankan
 
-![Gambar 6](screenshot/latihan2_2.PNG)
+![Gambar 6](screenshot/latihan2_2.png)
 
 
 # Program 1
